@@ -169,7 +169,7 @@ Users can upload an image and the application displays:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/kukatireshmitha986-create/Face-Mask-Detection.git
+git clone https://github.com/milind007K/FACE_MASK_DETECTION-main
 
 ### 2. Open the Project Folder
 
@@ -341,11 +341,11 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Author
 
-### K. Reshmitha
+###Milind khorgade
 
 AI & Data Science Student
 
-GitHub: https://github.com/kukatireshmitha986-create
+
 
 ---
 
@@ -353,7 +353,6 @@ GitHub: https://github.com/kukatireshmitha986-create
 
 Face Mask Detection using Deep Learning
 
-Repository: https://github.com/kukatireshmitha986-create/Face-Mask-Detection
 
 If you find this project useful, please give the repository a ⭐.
 
